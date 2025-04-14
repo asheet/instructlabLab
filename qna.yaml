@@ -1,0 +1,121 @@
+created_by: asheet
+version: 3
+domain: Basketball rules
+document_outline: >-
+  NCAA basketball rules for the 2024-2025 season. It outlines the rules and
+  regulations of NCAA basketball.
+seed_examples:
+  - context: |2-
+      ## Section 16. The Ball
+        - Art. 1. The ball shall be spherical. Spherical shall be defined as a round body whose surface at all points is equidistant from the center, except at the approved black rubber ribs (channels and/or seams).
+        - Art. 2. The ball's color shall be Pantone Matching System (PMS) Orange 151, Red-Orange 173 or Brown 1535.
+        - Art. 3. The cover of the ball shall be leather, or a composite material, and shall consist of tiny raised protrusions densely spaced over the entire surface of each panel so as to form a pebbled appearance.
+        - Art. 4. The ball shall have the traditionally shaped eight panels, bonded tightly to the rubber carcass. The eight panels are defined by two channels and/or seams dissecting the ball's circumference in opposite directions and two panels that, when laid flat, shall have the shape of a figure eight.
+        - Art. 5. The width of the black rubber rib (channels and/or seams) shall not exceed 1/4 inch.
+        - Art. 6. When dribbled vertically, without rotation, the ball shall return directly to the dribbler's hand. Small electronic chips/devices are permitted to be affixed inside the ball as long as there is no perceptible effect on the ball when dribbled, passed or shot.
+        - Art. 7. The ball shall be inflated to an air pressure such that when it is dropped to the playing surface from a height of 6 feet, measured to the bottom of the ball, it will rebound to a height, measured to the top of the ball, of not less than 49 inches when it strikes its least resilient spot, nor more than 54 inches when it strikes its most resilient spot. The air pressure that will give the required reaction shall be stamped on the ball.
+        - Art. 8. The circumference of the ball shall be within a maximum of 30 inches and a minimum of 29½ inches.
+        - Art. 9. The weight of the ball shall not be less than 20 ounces nor more than 22 ounces.
+        - Art. 10. The home team shall provide a ball that meets the specifications listed in this section. The referee shall judge the legality of the ball and may select a ball for use provided by the visiting team when the home team cannot provide a legal ball.
+        Note: It is recommended that the home team provide the visiting team with warmup balls of the same type as the game ball.
+    questions_and_answers:
+      - question: What is the air pressure requirement for the ball?
+        answer: >-
+          The ball should be inflated in such a way that when it is dropped from
+          the height of 6 feet, it will rebound to a height of 49 inches and
+          will not exceed 54 inches in bounce height.
+      - question: What is the physical description of the ball?
+        answer: >-
+          The ball is spherical with a circumference of 30 inches maximum and
+          29½ inches minimum, made of leather or composite material with a
+          pebbled appearance, with a color of Pantone Matching System (PMS)
+          Orange 151, Red-Orange 173 or Brown 1535, and has e
+      - question: What is the weight of the ball?
+        answer: >-
+          The ball should not weigh less than 20 ounces and not more than 22
+          ounces.
+  - context: >-
+      ## Section 7. Officials' Duties
+        During the game, officials shall:
+        - Art. 1. Put the ball in play.
+        - Art. 2. Determine when the ball becomes dead.
+        - Art. 3. Prohibit practice during a dead ball, except between halves.
+        - Art. 4. Administer penalties.
+        - Art. 5. Grant and charge timeouts.
+        - Art. 6. Correct errors and mistakes within the prescribed time frames. Officials may use play-by-play, a digital stopwatch, table officials (including an approved standby official) and Instant Replay as set forth in Rule 11 to correct errors and mistakes.
+        - Art. 7. Beckon substitutes to enter the playing court.
+        - Art. 8. Indicate a three-point attempt and signal a successful three-point goal.
+        - Art. 9. Silently and visibly count seconds to administer throw-ins, free-throws, and closely guarded rules and silently count for enforcement of the three-second rule.  Use the shot clock to administer the 10-second backcourt count. Use a visible 10-second count when there is no shot clock visible.
+        - Art. 10. Notify the captains and head coaches when play is about to begin after an intermission or a timeout.
+        - Art. 11. Report a warning for delay to the official scorer and head coaches. (See Rules 4-10.2 and 4-32.2.)
+        - Art. 12. Signal the official timer to stop the game clock when a foul occurs, designate  the  offender  to  the  official  scorer  and  indicate  with  finger(s)  the number of free throws.
+        - Art. 13. Clearly signal, when a team is entitled to a throw-in:
+        - a.  The act that caused the ball to become dead.
+        - b.  The team entitled to the throw-in.
+        - c. The designated spot, unless the throw-in comes after a successful goal or an awarded goal.
+        - Art. 14. Notify a team and its head coach when a team takes its final allowable charged timeout.
+        - Art. 15. Signal the scorer to record the time that a possible correctable error has occurred for a two- or three-point goal, which will be reviewed at the next electronic-media timeout per Rule 11-2.1.b.1. No signal is required during the last four minutes of the second period or during all of any extra period(s).
+        - Art. 16. Notify game management of any potentially dangerous situations on the playing court, including the 3-foot area outside each sideline and the 6-foot area outside each end line, the basket and backboard supports and/or any other equipment situations.
+    questions_and_answers:
+      - question: >-
+          When a shooter attempts a three point shot, does the official indicate
+          and signal a three point shot?
+        answer: Yes, the official will need to indicate and signal a three point shot.
+      - question: >-
+          If there is an error within the foul call, can the officials correct
+          and fix the error?
+        answer: >-
+          Yes, the officials can correct the error by using a play-by-play, a
+          digital stopwatch, table officials (including an approved standby
+          official) and Instant Replay to review the error and fix it.
+      - question: >-
+          If the basketball is out of play, can the official put the ball in
+          play?
+        answer: Yes, the official determines if the ball is in play.
+  - context: >-
+      ## Section 12. Disqualified Player
+      Art. 1. A disqualified player is one who is barred from further participation in a game after receiving a fifth foul, including personal fouls and Class A technical fouls or a player shall be disqualified for receiving three Flagrant 1 fouls.
+      Art.  2. A  team  member  who  leaves  the  bench  area  during  a  fight  shall  be disqualified and ejected.
+      Art. 3. The officials shall first notify the head coach of any disqualification and then the player.
+      Art. 4. When the head coach is notified by an official that a player is disqualified, that player becomes bench personnel, except when the disqualified individual is ejected.
+      Art. 5. A disqualified player shall be replaced within a 20-second time limit. A horn shall be sounded both 15 seconds before the expiration of this time limit and at the end of the time limit, with the latter horn indicating that play shall resume immediately.
+    questions_and_answers:
+      - question: >-
+          If the player has now earned a fifth foul, can the player still participate in the game?
+        answer: No, the player is disqualified from further participation in the game because a player cannot earn more than 5 fouls.
+      - question: >-
+          If a player is disqualified by fouling out, can the head coach be notified?
+        answer: >-
+          Yes, the officials shall notify the head coach that the player has been disqualified.
+      - question: >-
+          If the player has earned three Flagrant 1 fouls, can the player still participate in the game?
+        answer: No, the player cannot participate in the game because the player has been disqualified since the player has earned three Flagrant 1 fouls.
+  - context: >-
+      ## Section 3. Forfeit/No Contest
+      - Art. 1. A forfeit is the termination of the game by the referee by declaring one team the winner by forfeit.
+      - Art. 2. The referee shall declare a forfeit when:
+      - a.  Any player, team member or bench personnel fails to comply with any flagrant or technical-foul penalty or makes a travesty of the game.
+      - b.  When conditions warrant.
+      - c. A team refuses to play after being instructed to do so by an official.
+      - Art. 3. The referee shall determine the length of time that shall elapse before a forfeit may be declared.
+      - Art.  4. Conference  policy  may  include  an  established  time  limit  before  the referee may declare a forfeit.
+      - Art. 5. When a forfeit is declared, the score shall be recorded as 2-0 and all statistics (other than the teams' and head coaches' won-lost records) shall be voided, unless 30 minutes of playing time has been completed on the game clock. In that case, the score at the end of play shall stand and all other statistics shall count.
+      - Art.  6. When  the  team  that  is  behind  in  the  scorebook  is  to  be  declared the  winning  team,  that  score  shall  be  marked  with  an  asterisk  in  the  official statistics; and it shall be noted that the game was won by forfeit.
+      - Art. 7. A 'no contest' is when a team does not appear at the game site because of  inclement  weather,  an  accident,  vehicle  breakdown,  illness  or  catastrophic cause. An institution shall not, for statistical purposes, declare a forfeit for nonfulfillment of a contract, but rather shall declare a 'no contest.' When officials are  not  present  or  available  to  officiate,  there  cannot  be  a  sanctioned  game/ contest.
+    questions_and_answers:
+      - question: >-
+          If there a forfeit, what is the score that will be recorded?
+        answer: There will be a score of 2-0 recorded.
+      - question: >-
+          If a team does not show up to the game site because of inclement weather, what is the score that will be recorded?
+        answer: >-
+          The score will be recorded as a 'no contest' and the institution shall not declare a forfeit for nonfulfillment of a contract.
+      - question: >-
+          If a team has played 35 minutes of the game and one of the teams forfeits, what is the score that will be recorded?
+        answer: >-
+          The score will be recorded as the score at the end of play and all other statistics shall count because there was 30 minutes of playing time completed on the game clock.
+document:
+  repo:
+  commit:
+  patterns:
+    -
