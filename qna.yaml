@@ -114,43 +114,33 @@ seed_examples:
           If a team has played 35 minutes of the game and one of the teams forfeits, what is the score that will be recorded?
         answer: >-
           The score will be recorded as the score at the end of play and all other statistics shall count because there was 30 minutes of playing time completed on the game clock.
- - context: >-
-  
-    Playing Area. When possible, building plans should provide for a playing court with ideal measurements as stated in Rule 1-2 and listed on the court diagram, ample out-of-bounds area and needed seating space for scorers, timers and fans. A long playing court permits use of two crosswise courts for practice and informal games.
-    It is recommended that padding that meets current ASTM standards be used on walls and other facility features in or around the playing area that a student-athlete might contact during play. Padding should be installed no more than 4 inches from the floor up to 6 feet.
+  - context: >-
+      Playing Area. When possible, building plans should provide for a playing court with ideal measurements as stated in Rule 1-2 and listed on the court diagram, ample out-of-bounds area and needed seating space for scorers, timers and fans. A long playing court permits use of two crosswise courts for practice and informal games.
+      It is recommended that padding that meets current ASTM standards be used on walls and other facility features in or around the playing area that a student-athlete might contact during play. Padding should be installed no more than 4 inches from the floor up to 6 feet.
 
-    Ceiling. The ceiling and anything hanging from it (other than the basket) should be at least 25 feet above the playing court and higher if possible.
-    Boundaries. The committee recommends that a belt 8 inches or more in width be used to mark the boundaries on all courts that have at least 10 feet of open space between the boundary lines and the seating. This plan is urged for all new construction and for other similar courts when the boundaries are re-marked.
-    Lighting. The court should be uniformly and adequately lighted. Lighting engineers should be placed in charge of this important factor when planning any new installations. For information on recommended specifications for lighting, contact the Illuminating Engineering Society of North America, 120 Wall St., 17th Floor, New York, New York 10005; telephone 212-2485000.
-    Warning on Misuse of Portable Backstops. Manufacturers and administrators should be aware of an 'extreme-caution' warning relative to the misuse of portable backstops. A high degree of injury potential and a severe liability problem exist when anyone is allowed to hang, sit or stand on the basket ring or backboard. Administrators must see that this practice is prohibited or that the portable units are lowered at the completion of the game because of the high risk of severe injury, even death. A recommended warning or inscription such as 'Danger-please do not get on the rim/ backboard' is desirable.
-    Locking Backboard. It is recommended that a locking device/safety arrester be used for ceiling and wall-mount backboard systems that are retracted by motor-pulley cable arrangements.
-    Backboard Padding. It is recommended that the required padding for the backboard be mounted on the backboard by adhesive or material such as Velcro or channel. The bottom and each side of the backboards shall be padded with a Poly High-Car vinyl-type material that meets the Bashor resilience test with a range of 20-30.
-    A lavaliere-type microphone properly positioned in the crease of the backboard padding or between padding and backboard is permitted since it is not located on the padding and does not interfere with a live ball or create a safety hazard.
+      Warning on Misuse of Portable Backstops. Manufacturers and administrators should be aware of an 'extreme-caution' warning relative to the misuse of portable backstops. A high degree of injury potential and a severe liability problem exist when anyone is allowed to hang, sit or stand on the basket ring or backboard. Administrators must see that this practice is prohibited or that the portable units are lowered at the completion of the game because of the high risk of severe injury, even death. A recommended warning or inscription such as 'Danger-please do not get on the rim/ backboard' is desirable.
+      Locking Backboard. It is recommended that a locking device/safety arrester be used for ceiling and wall-mount backboard systems that are retracted by motor-pulley cable arrangements.
+      Backboard Padding. It is recommended that the required padding for the backboard be mounted on the backboard by adhesive or material such as Velcro or channel. The bottom and each side of the backboards shall be padded with a Poly High-Car vinyl-type material that meets the Bashor resilience test with a range of 20-30.
+      A lavaliere-type microphone properly positioned in the crease of the backboard padding or between padding and backboard is permitted since it is not located on the padding and does not interfere with a live ball or create a safety hazard.
 
-    Ring. The design of the ring and its construction should be such as to maximize player safety. A movable basket ring shall have rebound characteristics identical to those of a nonmovable ring. The pressure-release mechanism should maximize these characteristics, as well as protect both the ring and backboard. Movable rings are required.
-    Ring Testing. It is required for Division I and recommended for Divisions II and III that all competitive rings for men be tested for rebound/elasticity once before the season and once before the postseason. It is recommended further, in all divisions , that basket ring loads be transferred to the support system by a single strut boom behind the backboard, or to the backboard frame. The pressure-release/elasticity mechanism on movable rings may be field adjustable. When released, the ring shall not rotate more than 30 degrees below the original horizontal position. After release and with the load no longer applied, the ring shall return automatically and instantaneously to its original position.
-    Marking the Court. When marking a court, manufacturers should start at the center of the court rather than at either end.
-    Timing Equipment. Divisions I, II and III schools shall have a game clock that shows a 10th-of-a-second display when less than one minute remains in a period.
-    Divisions I, II and III schools shall have either a red light placed behind each backboard that is visible through the 24-inch-by-18-inch rectangle or LED lights around the backboard. The purpose of either is to indicate when player activity is terminated. If LED lights are used, they shall be positioned not more than 6 inches from the upper and lower edges of the backboard and not more than 5 inches from the side of each backboard. When both lights are present, the LED lights shall take precedence, and the red light shall be disconnected. It is recommended that the game clock, red light or LED lights be updated in their synchronization.
+      Divisions I, II and III schools shall have either a red light placed behind each backboard that is visible through the 24-inch-by-18-inch rectangle or LED lights around the backboard. The purpose of either is to indicate when player activity is terminated. If LED lights are used, they shall be positioned not more than 6 inches from the upper and lower edges of the backboard and not more than 5 inches from the side of each backboard. When both lights are present, the LED lights shall take precedence, and the red light shall be disconnected. It is recommended that the game clock, red light or LED lights be updated in their synchronization.
 
-    It is recommended that all men's Division I arenas provide a timing mechanism that enables the officials to start and stop the game clock automatically. It is permissible also to have LED lights at the scorers' table which are synchronized with the red lights/LED lights on the backboards and game clocks.
+      It is recommended that all men's Division I arenas provide a timing mechanism that enables the officials to start and stop the game clock automatically. It is permissible also to have LED lights at the scorers' table which are synchronized with the red lights/LED lights on the backboards and game clocks.
 
-    A pole attached to the shot clock that is used to mount a camera or a camera attached to the shot clock is permissible when the shot clock is recessed behind the backboard and does not interfere with a live ball, nor does it affect the visibility of the shot clock.
-  question_and_answers:
-    - question: >-
-       What are the safety and installation recommendations for padding around the playing area and backboard?
-      answer: >-
-        Padding around the playing area should meet current ASTM standards and be installed no more than 4 inches from the floor up to 6 feet. For the backboard, the required padding must be mounted using adhesive, Velcro, or channel, and must use Poly High-Car vinyl-type material that meets the Bashor resilience test (range 20-30). A lavaliere-type microphone may be placed between the padding and backboard if it does not pose a hazard.
-
-   - question: >- 
-       What are the requirements and recommendations for basket rings in NCAA games?
-     answer: >- 
-       Movable basket rings are required and must have the same rebound characteristics as nonmovable ones. The pressure-release mechanism should both protect and enhance rebound behavior. For men's Division I, ring rebound/elasticity testing is mandatory before the season and postseason; it is recommended for Divisions II and III. The ring should not rotate more than 30 degrees downward upon release and must return to the original position immediately after the load is removed.
-
-  - question: >- 
-      What are the specifications for timing and lighting equipment in NCAA Division I, II, and III arenas?
-    answer: >- 
-      Arenas must have a game clock with 1/10th-of-a-second display for the final minute of each period. A red light behind each backboard or LED lights around the backboard must indicate the end of player activity; LED lights take precedence if both are used. The lights must be synchronized with the game clock. Additionally, it is recommended that Division I arenas provide automatic timing mechanisms for officials and allow synchronized LED lights at the scorers' table.
+      A pole attached to the shot clock that is used to mount a camera or a camera attached to the shot clock is permissible when the shot clock is recessed behind the backboard and does not interfere with a live ball, nor does it affect the visibility of the shot clock.
+    question_and_answers:
+      - question: >-
+          What are the safety and installation recommendations for padding around the playing area and backboard?
+        answer: >-
+          Padding around the playing area should meet current ASTM standards and be installed no more than 4 inches from the floor up to 6 feet. For the backboard, the required padding must be mounted using adhesive, Velcro, or channel, and must use Poly High-Car vinyl-type material that meets the Bashor resilience test (range 20-30). A lavaliere-type microphone may be placed between the padding and backboard if it does not pose a hazard.
+      - question: >- 
+          What are the requirements and recommendations for basket rings in NCAA games?
+        answer: >- 
+          Movable basket rings are required and must have the same rebound characteristics as nonmovable ones. The pressure-release mechanism should both protect and enhance rebound behavior. For men's Division I, ring rebound/elasticity testing is mandatory before the season and postseason; it is recommended for Divisions II and III. The ring should not rotate more than 30 degrees downward upon release and must return to the original position immediately after the load is removed.
+      - question: >- 
+          What are the specifications for timing and lighting equipment in NCAA Division I, II, and III arenas?
+        answer: >- 
+          Arenas must have a game clock with 1/10th-of-a-second display for the final minute of each period. A red light behind each backboard or LED lights around the backboard must indicate the end of player activity; LED lights take precedence if both are used. The lights must be synchronized with the game clock. Additionally, it is recommended that Division I arenas provide automatic timing mechanisms for officials and allow synchronized LED lights at the scorers' table.
 
 document:
   repo:
