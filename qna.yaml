@@ -141,9 +141,8 @@ seed_examples:
           What are the specifications for timing and lighting equipment in NCAA Division I, II, and III arenas?
         answer: >- 
           Arenas must have a game clock with 1/10th-of-a-second display for the final minute of each period. A red light behind each backboard or LED lights around the backboard must indicate the end of player activity; LED lights take precedence if both are used. The lights must be synchronized with the game clock. Additionally, it is recommended that Division I arenas provide automatic timing mechanisms for officials and allow synchronized LED lights at the scorers' table.
-
 document:
-  repo:
-  commit:
+  repo: 'https://github.com/asheet/instructlabLab'
+  commit: 757d4dc607b1f7d32ee058d612db7e268b3e72f9
   patterns:
-    -
+    - BK25.md
